@@ -1,20 +1,14 @@
-# Gridline agency website
+# Gridline Creative website
 
-A responsive, static one-page website made with plain HTML, CSS, and JavaScript. It has no build step or paid dependencies and can be published on a free static hosting plan.
+A responsive static website for Gridline Creative, a Bangladesh-based advertising agency. It is built with plain HTML, CSS, and JavaScript and has no build step.
 
-## Before publishing
+## Publish updates
 
-- Replace the illustrative projects and sample agency copy in `index.html` with your real services, portfolio, location, and story.
-- Replace `hello@youragency.com` in the contact link and footer with your email address.
-- Update the page title and description in the `<head>` section.
-- The Google Fonts link needs an internet connection. The site falls back to system fonts if those fonts are unavailable.
+The live site is hosted on GitHub Pages at <https://samjain211.github.io/gridline-agency-site/>. The repository is public. To publish an update, commit the changed files to the `main` branch; GitHub Pages deploys from the repository root.
 
-## Publish for free with GitHub Pages
+## Contact links
 
-1. Create a GitHub account if you do not have one, then create a new **public** repository.
-2. Upload `index.html`, `styles.css`, and `script.js` to the repository root.
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-5. GitHub will show the published website address in the Pages settings after deployment finishes.
+- Email: samjain3824@gmail.com
+- WhatsApp: +880 1875-5403984
 
-The free address is on `github.io`. You can connect a custom domain later if you own one; domain registration usually costs money.
+The logo file is `gridline-mark.jpg`.
