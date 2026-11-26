@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Gridline animated logo">
+  <circle cx="120" cy="120" r="105" fill="none" stroke="#ffffff" stroke-opacity=".14" stroke-width="1" stroke-dasharray="2 8">
+    <animateTransform attributeName="transform" type="rotate" from="0 120 120" to="360 120 120" dur="38s" repeatCount="indefinite"/>
+  </circle>
+  <image href="../gridline-mark.png" x="39" y="39" width="162" height="162" preserveAspectRatio="xMidYMid meet"/>
+</svg>
