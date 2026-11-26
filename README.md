@@ -10,7 +10,7 @@ The public GitHub repository is `Samjain211/gridline-agency-site`. GitHub Pages 
 
 ## Portfolio
 
-Selected graphic design and website samples are displayed in the service galleries. Add new image files under `assets/portfolio/graphic/` or `assets/portfolio/web/`, then add a gallery card in the matching section in `index.html`. Add video samples under `assets/portfolio/video/` when available. Marketing strategy case studies can be added later.
+The home page shows compact, horizontally scrolling work previews. The separate `portfolio.html` page shows the full portfolio, with larger hover previews on desktop. Add new image files under `assets/portfolio/graphic/` or `assets/portfolio/web/`, then add matching gallery cards to both HTML pages. Add video samples under `assets/portfolio/video/` when available. Marketing strategy case studies can be added later.
 
 ## Contact
 
