@@ -30,3 +30,8 @@
 @media(max-width:850px){.intro{gap:28px}.intro-visual{min-height:260px}}
 @media(max-width:580px){.intro{display:grid;grid-template-columns:1fr;gap:30px;padding:72px 0}.intro-visual{min-height:220px;grid-row:2}.intro>div{grid-row:1}.intro h2{font-size:43px;letter-spacing:-3px}.portfolio{padding:72px 0 78px}.portfolio-label{grid-template-columns:28px 1fr;gap:8px}.portfolio-label h3{font-size:17px}.portfolio-label>span:last-child{grid-column:2;font-size:7px}.gallery-empty{margin-left:0;min-height:104px;padding:16px}.gallery-empty p{font-size:10px}}
 @media(prefers-reduced-motion:reduce){.intro-loop,.intro-visual:after{animation:none}}
+/* Give the orbiting service labels enough room to read clearly. */
+.intro-visual{min-height:350px}
+.intro-loop{width:min(82%,300px)}
+@media(max-width:850px){.intro-visual{min-height:320px}}
+@media(max-width:580px){.intro-visual{min-height:300px}.intro-loop{width:min(82%,270px)}}
